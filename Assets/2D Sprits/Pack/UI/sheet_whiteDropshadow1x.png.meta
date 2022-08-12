@@ -1,0 +1,3087 @@
+fileFormatVersion: 2
+guid: d9abe65905fdced4c886972579a17720
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 469
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80acf474e978ad47860988d32c5c920
+      internalID: 971507307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 471
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c034ff00f0014992cf327eec4755e
+      internalID: -993058045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 470
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cae543e1da4f44f895495a5309d26e
+      internalID: 726487145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 488
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78718ca09f07be46abe69d495a9834c
+      internalID: -1327381672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 488
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0aa204e4ee32c48a11e59df2afa11a
+      internalID: -358014866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 468
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798edf6e46eef74da988ca5ed4d44da
+      internalID: 1936877077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 468
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82719a578ad0b543a1c109e576fc60c
+      internalID: -1328997069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 468
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f683a3ee8f9e7478a32c5928863b80
+      internalID: 661665153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 469
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24d198f187c3d4fb36e8eef3cf4bfe
+      internalID: 961277925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 480
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981514ac188f9e4997e028476080e86
+      internalID: 1021623004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 470
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d78538110b31479342c2000753ae4
+      internalID: 986504829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 472
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea587a1c14fd534babe6196f91cc03a
+      internalID: 515541401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a257229ef009448a810d4b7d580d1
+      internalID: 1276202716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 468
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08708bbca89800d42a61e25ca00206b2
+      internalID: -1206870358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 468
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0deabb6b3c831041ad1e083c4b664ba
+      internalID: 2128542244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14373b4087f9ec04981daa58e481ba4c
+      internalID: -228001898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 418
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0f6a154bead044aa928a8e0cf66438
+      internalID: -1817093068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 425
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727074b6c288d943a045881e7713230
+      internalID: 1375448852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 418
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6262b7152309b408002607383f3ba8
+      internalID: -1733825503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 419
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c00e8f2f2909045955aeebfa0e18b9
+      internalID: -1462026977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910f872e1e5e444fb2c25ca3154cc65
+      internalID: -1242657464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 420
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed27589234c3e4c947b3f2c2886de2
+      internalID: 564525331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 418
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a162c576c8373f499d7df7ecc81be9d
+      internalID: 1577183773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 418
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d83a0f58ca9d43bd9f020c9b85b41
+      internalID: 708557225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 419
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8900798183d80d458d2f0db30be0268
+      internalID: -1704970033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 422
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7394b458c4ae8d4ebe52043af785ae7
+      internalID: -1045291849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81028744306210d47a8260242f1b50da
+      internalID: 623878410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 422
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121cb2e53ddd8848abd8c527e84ea93
+      internalID: 1458376502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 368
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c1d285f5eee64f84bac9effcc88a5
+      internalID: -1409788823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 367
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65734a1979002394ca654a2bf8ddc195
+      internalID: 104062538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 365
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2185b16474aac2645af5556ac2051977
+      internalID: 590386128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 368
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18461d5b0abc874a9c01d9c9986b875
+      internalID: 893495049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7fa3e4fa7ac74fada73bf7172f273
+      internalID: -1515834978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 368
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f669a273ce84624f875b88754905148
+      internalID: -908636425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 367
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c06922c5f5e34da5eaf45ffae2857
+      internalID: 843019235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 369
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d39828f6662648a4a8884a613e581
+      internalID: 311203155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 369
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f56d5c891077439685232d70af874
+      internalID: 1228919046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 365
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e83f1ed0cada94aaf6f4d6384f1343
+      internalID: -708536262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 372
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170a9af139aa8741b413200c6c963bd
+      internalID: 617858181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 369
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194139772333874da3927c4d5dfee50
+      internalID: -645660109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 369
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053d89a5b42125a478036b0deaab3a9d
+      internalID: 815978262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 369
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0f42307ec363d468c0a69afd18f910
+      internalID: -502346046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 320
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137bb0f6a6fb1b5418bd124bee59ff09
+      internalID: -1583198644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 320
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfbb5ef24ec56f4a9aff5687c7d36bd
+      internalID: -1541077819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681bd4eb27f4f9048ba4ee0cbc073c1c
+      internalID: -863788945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 317
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65e4f0473cacd4b80295cf640360c1
+      internalID: 1138120415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 318
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccc1ec968ce33429bcabed3a85c5e8
+      internalID: 204577900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 318
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a18bf3d5bc692e4995ea02070e08c5f
+      internalID: 1353228105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 318
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c328f6f2dd1924fbd0e6dc9e569c6a
+      internalID: 1908251025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 316
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797336506f28da14e94d95a700e51df1
+      internalID: -305040517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 318
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dd7d2557da564ea592b22124ef007
+      internalID: 45642611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_52
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 315
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a22ee2840b5445878d50fc96b2de1
+      internalID: 1066421625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_53
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 329
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7169142d1c3e36b439ff13136cab9a7e
+      internalID: 354195579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 319
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041135b6a9de0345b82165393f40201
+      internalID: 702953917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 319
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4b791f040e2846b822c098f25ce67
+      internalID: -763743922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1d938d2aa7f04fbf861e625f20c06
+      internalID: -1378347038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 294
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27322c85f6db4b24aa321dff83bc2c47
+      internalID: 1170089335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 267
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf00ccca2b7bd0449da6a87e0f29263
+      internalID: -547147380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 266
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8468bb8b43aed040aa82d7182960e48
+      internalID: -1189096852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 266
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a172202b3ca2af4e8e6f9b75b670238
+      internalID: 711327215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 281
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891565b34db1e84d95dbd59e5bfbadb
+      internalID: -1439119951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_65
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 266
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40649e13a2d07740aa9691de5beb01f
+      internalID: 1958881635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_66
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 265
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41936af0965b54a8e45646f1078cec
+      internalID: -937143618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_67
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 270
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a0fc09061ff0b4f93848ac09a3280a
+      internalID: -1124500229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_68
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 272
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d6d00ba37f88489afaf273ea13c40
+      internalID: -950561463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_69
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 272
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb731f85ff733bb408cb1a942b22a935
+      internalID: -962526989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 282
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2a1d89e81a274c801dd3d0052cfcb
+      internalID: -1129215471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 268
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20659634a1a8dd48ae4df3b105cc4d9
+      internalID: 1977916310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a2cc19a1440342a0adad9562ebac3
+      internalID: 191157937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 270
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7debb82d2eb908c40bf4bfc020a972f6
+      internalID: -1849199997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 219
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff03cca9f9736c4a988ebf27ca589f0
+      internalID: -518386789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 217
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c9fd26ec385a947949133de95b0cf3
+      internalID: -1352583389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 216
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b455579f61166164698aec9be7492f20
+      internalID: 1791620489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 216
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f23627caee4c449a4a936fbb75aac7
+      internalID: 2056467770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 218
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a889effafc4a1614daa0e29e43073277
+      internalID: 548162112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 244
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a8db95a538dc84cbfb01a68028180d
+      internalID: 524946288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 244
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d95253eb338b4685e8549c64bb112
+      internalID: 621785480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 216
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb35be52a3a7b4db0f3e5ba6f55ca2
+      internalID: 248944150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_82
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 215
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f226d5aaa61641bccd314fd587bba
+      internalID: 1004587014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 220
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b97414dbfc6cb40aa050c0f86685ff
+      internalID: 243116089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_84
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 222
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70368e497ef2e3c409ae0b88144db937
+      internalID: 892834477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 232
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6dec97e63b354a840c56facac4bf6
+      internalID: 1712863156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 232
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a401c48953eb41a2b1b6c93d4d7a1
+      internalID: -229283662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 220
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3414e94d3d73247a3e07158485c88b
+      internalID: 1688033362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_88
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 220
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac71b2efcb2658d45a8eecc0f12d8cc3
+      internalID: 836585720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7eea8ef796cf9448177d6e51b90f72
+      internalID: 2032011137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a6aa47fc53d74e96ddaab7019a5be
+      internalID: 1395426242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 168
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700325aaec8959740ad29838c2e60cc0
+      internalID: 2083944657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 168
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcf1c36b55729741a35c71254de976e
+      internalID: -695908134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 169
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d029ac923e304ba3afee82baf8d64
+      internalID: -72105064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_94
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847544fe28948dd43a5a2bb17c199b04
+      internalID: -994946870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_95
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7de09380256a4c8b93d0c02e29651
+      internalID: 395445599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_96
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a83e627180e345b131b9992b87fa3
+      internalID: -1216319676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_97
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0965e4c351e0d4792faa9363d1d5d7
+      internalID: 767872916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_98
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 166
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0a36ad982c7c4688a3656bc8066b2
+      internalID: -1510740152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_99
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 172
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10971ef41ff75304ca2ec02cbd71d869
+      internalID: -2069937733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_100
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 175
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917474f13298a8448bbc32a5bc7fa13a
+      internalID: 400411349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_101
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 172
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe1f33946197b4cb636391893dedcf
+      internalID: 841995868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_102
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbaf4e13de12314baa95a03b2c45378
+      internalID: 360511196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_103
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a701762fc9031694a84720d53eaf96ef
+      internalID: -1598471601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228347d99097ae4599e4ba24ef5cc04
+      internalID: -1968336856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_105
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28d1fa9fb20ce4092a6144622ced0a
+      internalID: 1873658910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_106
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce07a32bb3b1a24db1e55b809650e41
+      internalID: -1628883188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_107
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ef8cf17cf4294b87731710d4aff1b
+      internalID: -174448730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49880f28658a154d81055ddcca65008
+      internalID: -1345650228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_109
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 118
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470a08156693884eb4e6da080d67f9b
+      internalID: -597688055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_110
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 118
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40d02a3bb5a2f4f89937191ca673e4
+      internalID: 382147012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 121
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae55851279367b4b82d6fae7132537c
+      internalID: 263337294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 120
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bfc963836c82941a04d0b3ce3342de
+      internalID: 33756504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_114
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 116
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035e48ed21d1cc44818f8c840faf43c
+      internalID: 804126241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_115
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 118
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463721e874111864bbc0d35c828060d5
+      internalID: -68310604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_116
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 119
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db84b12a152257542944dbbf42ab62bd
+      internalID: 2103119318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_117
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 117
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747878f5f4c0d014098b3fa1bbc32996
+      internalID: 1548581759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_118
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 122
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec560bbc066c846827c34a85e030d7
+      internalID: 383593659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_119
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 68
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9edff2cdff1ae3499ae7c5b663c5c00
+      internalID: 352154964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_120
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b28a6623191134baaa003d2e28e5b5
+      internalID: -1349461998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_121
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbfc8552e169d4f8af177755b151ee
+      internalID: 1966158485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a03d545f36fead4f955d7d83665e51f
+      internalID: -708004699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293c891f91bcfb49b722e28712a2807
+      internalID: -300818705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 66
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b18d4367c3da34daa383a95dfdc3f2
+      internalID: -1204578565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_125
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 67
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed301f5b61e8f82419c894b2dd84b552
+      internalID: 1572123088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_126
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 68
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ed4e8f880fe6409712e67262cd5f2
+      internalID: -914631935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_127
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26aa9f2c10481b449bcfdca7020d606
+      internalID: -748220026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_128
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b39ac144bab3d74dab784aa3922f2af
+      internalID: 976038812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 21
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee74ed2fb6a0cf499f6cc62727ed800
+      internalID: -334171589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_130
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 20
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2828ccb220a0f5429a8683732fe4626
+      internalID: -874246691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_131
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 20
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f260bbedd5cc6143a27b20f261828f3
+      internalID: -1040301844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_132
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a126b0518ba2a44bba600a495e4cd8
+      internalID: -472253676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_133
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 18
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea14ac171ff4c42b29631132936a60
+      internalID: -375305308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_134
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 19
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f402f7b6813f96409366b905d510429
+      internalID: -1338820746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_135
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d9b7f7dec7a1409f55ac15d916269
+      internalID: 1079265187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_136
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 18
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c4d028fef7374fb1402ff2cf53110
+      internalID: 1117965967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_137
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 18
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd8362d9d1bc8941a6fb63d59b42219
+      internalID: -15491823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_whiteDropshadow1x_138
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 22
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b712d80d468180498d187ea4ff3dffa
+      internalID: -1170732084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_whiteDropshadow1x_0: 971507307
+      sheet_whiteDropshadow1x_51: 1675793302
+      sheet_whiteDropshadow1x_9: 1021623004
+      sheet_whiteDropshadow1x_77: 2056467770
+      sheet_whiteDropshadow1x_43: -1541077819
+      sheet_whiteDropshadow1x_125: 1572123088
+      sheet_whiteDropshadow1x_6: -1328997069
+      sheet_whiteDropshadow1x_69: -962526989
+      sheet_whiteDropshadow1x_138: -1170732084
+      sheet_whiteDropshadow1x_14: 2128542244
+      sheet_whiteDropshadow1x_12: 1276202716
+      sheet_whiteDropshadow1x_79: 524946288
+      sheet_whiteDropshadow1x_11: 515541401
+      sheet_whiteDropshadow1x_108: -1345650228
+      sheet_whiteDropshadow1x_25: -1045291849
+      sheet_whiteDropshadow1x_13: -1206870358
+      sheet_whiteDropshadow1x_1: -993058045
+      sheet_whiteDropshadow1x_23: 708557225
+      sheet_whiteDropshadow1x_91: 2083944657
+      sheet_whiteDropshadow1x_22: 1577183773
+      sheet_whiteDropshadow1x_99: -2069937733
+      sheet_whiteDropshadow1x_24: -1704970033
+      sheet_whiteDropshadow1x_63: 711327215
+      sheet_whiteDropshadow1x_72: 191157937
+      sheet_whiteDropshadow1x_45: 1138120415
+      sheet_whiteDropshadow1x_106: -1628883188
+      sheet_whiteDropshadow1x_101: 841995868
+      sheet_whiteDropshadow1x_74: -518386789
+      sheet_whiteDropshadow1x_75: -1352583389
+      sheet_whiteDropshadow1x_105: 1873658910
+      sheet_whiteDropshadow1x_3: -1327381672
+      sheet_whiteDropshadow1x_118: 383593659
+      sheet_whiteDropshadow1x_4: -358014866
+      sheet_whiteDropshadow1x_59: -1378347038
+      sheet_whiteDropshadow1x_64: -1439119951
+      sheet_whiteDropshadow1x_130: -874246691
+      sheet_whiteDropshadow1x_73: -1849199997
+      sheet_whiteDropshadow1x_132: -472253676
+      sheet_whiteDropshadow1x_81: 248944150
+      sheet_whiteDropshadow1x_34: 843019235
+      sheet_whiteDropshadow1x_90: 1395426242
+      sheet_whiteDropshadow1x_111: 263337294
+      sheet_whiteDropshadow1x_71: 1977916310
+      sheet_whiteDropshadow1x_50: 45642611
+      sheet_whiteDropshadow1x_32: -1515834978
+      sheet_whiteDropshadow1x_88: 836585720
+      sheet_whiteDropshadow1x_83: 243116089
+      sheet_whiteDropshadow1x_116: 2103119318
+      sheet_whiteDropshadow1x_85: 1712863156
+      sheet_whiteDropshadow1x_131: -1040301844
+      sheet_whiteDropshadow1x_16: -1817093068
+      sheet_whiteDropshadow1x_122: -708004699
+      sheet_whiteDropshadow1x_62: -1189096852
+      sheet_whiteDropshadow1x_93: -72105064
+      sheet_whiteDropshadow1x_133: -375305308
+      sheet_whiteDropshadow1x_82: 1004587014
+      sheet_whiteDropshadow1x_44: -863788945
+      sheet_whiteDropshadow1x_68: -950561463
+      sheet_whiteDropshadow1x_100: 400411349
+      sheet_whiteDropshadow1x_114: 804126241
+      sheet_whiteDropshadow1x_104: -1968336856
+      sheet_whiteDropshadow1x_87: 1688033362
+      sheet_whiteDropshadow1x_120: -1349461998
+      sheet_whiteDropshadow1x_94: -994946870
+      sheet_whiteDropshadow1x_70: -1129215471
+      sheet_whiteDropshadow1x_60: 1170089335
+      sheet_whiteDropshadow1x_67: -1124500229
+      sheet_whiteDropshadow1x_115: -68310604
+      sheet_whiteDropshadow1x_40: 815978262
+      sheet_whiteDropshadow1x_102: 360511196
+      sheet_whiteDropshadow1x_109: -597688055
+      sheet_whiteDropshadow1x_19: -1462026977
+      sheet_whiteDropshadow1x_89: 2032011137
+      sheet_whiteDropshadow1x_103: -1598471601
+      sheet_whiteDropshadow1x_135: 1079265187
+      sheet_whiteDropshadow1x_57: -902131060
+      sheet_whiteDropshadow1x_96: -1216319676
+      sheet_whiteDropshadow1x_136: 1117965967
+      sheet_whiteDropshadow1x_95: 395445599
+      sheet_whiteDropshadow1x_121: 1966158485
+      sheet_whiteDropshadow1x_54: 702953917
+      sheet_whiteDropshadow1x_110: 382147012
+      sheet_whiteDropshadow1x_97: 767872916
+      sheet_whiteDropshadow1x_27: 1458376502
+      sheet_whiteDropshadow1x_65: 1958881635
+      sheet_whiteDropshadow1x_35: 311203155
+      sheet_whiteDropshadow1x_98: -1510740152
+      sheet_whiteDropshadow1x_76: 1791620489
+      sheet_whiteDropshadow1x_117: 1548581759
+      sheet_whiteDropshadow1x_129: -334171589
+      sheet_whiteDropshadow1x_52: 1066421625
+      sheet_whiteDropshadow1x_30: 590386128
+      sheet_whiteDropshadow1x_124: -1204578565
+      sheet_whiteDropshadow1x_39: -645660109
+      sheet_whiteDropshadow1x_86: -229283662
+      sheet_whiteDropshadow1x_33: -908636425
+      sheet_whiteDropshadow1x_41: -502346046
+      sheet_whiteDropshadow1x_112: 33756504
+      sheet_whiteDropshadow1x_5: 1936877077
+      sheet_whiteDropshadow1x_8: 961277925
+      sheet_whiteDropshadow1x_29: 104062538
+      sheet_whiteDropshadow1x_15: -228001898
+      sheet_whiteDropshadow1x_28: -1409788823
+      sheet_whiteDropshadow1x_137: -15491823
+      sheet_whiteDropshadow1x_38: 617858181
+      sheet_whiteDropshadow1x_56: 1843005424
+      sheet_whiteDropshadow1x_36: 1228919046
+      sheet_whiteDropshadow1x_58: -456652930
+      sheet_whiteDropshadow1x_107: -174448730
+      sheet_whiteDropshadow1x_119: 352154964
+      sheet_whiteDropshadow1x_7: 661665153
+      sheet_whiteDropshadow1x_84: 892834477
+      sheet_whiteDropshadow1x_55: -763743922
+      sheet_whiteDropshadow1x_123: -300818705
+      sheet_whiteDropshadow1x_128: 976038812
+      sheet_whiteDropshadow1x_21: 564525331
+      sheet_whiteDropshadow1x_26: 623878410
+      sheet_whiteDropshadow1x_126: -914631935
+      sheet_whiteDropshadow1x_92: -695908134
+      sheet_whiteDropshadow1x_53: 354195579
+      sheet_whiteDropshadow1x_2: 726487145
+      sheet_whiteDropshadow1x_80: 621785480
+      sheet_whiteDropshadow1x_42: -1583198644
+      sheet_whiteDropshadow1x_61: -547147380
+      sheet_whiteDropshadow1x_113: -416232784
+      sheet_whiteDropshadow1x_127: -748220026
+      sheet_whiteDropshadow1x_46: 204577900
+      sheet_whiteDropshadow1x_10: 986504829
+      sheet_whiteDropshadow1x_31: 893495049
+      sheet_whiteDropshadow1x_18: -1733825503
+      sheet_whiteDropshadow1x_47: 1353228105
+      sheet_whiteDropshadow1x_17: 1375448852
+      sheet_whiteDropshadow1x_48: 1908251025
+      sheet_whiteDropshadow1x_20: -1242657464
+      sheet_whiteDropshadow1x_134: -1338820746
+      sheet_whiteDropshadow1x_49: -305040517
+      sheet_whiteDropshadow1x_37: -708536262
+      sheet_whiteDropshadow1x_78: 548162112
+      sheet_whiteDropshadow1x_66: -937143618
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

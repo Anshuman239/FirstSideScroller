@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: 4a9bc19486bcdb647b262bd8331b376b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_Tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2598.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5677637df7faed429a26f7fcfa5b65c
+      internalID: 775073921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2598.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11cd95e4e50457408d80af2d50bb668
+      internalID: 2095521016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2598.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1fad5336b0cc04cb39121f956b4a43
+      internalID: -2041228659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0c4f011833a44cbeb52c8deec9ce6
+      internalID: -280997547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77885a2d9001c4b4abce2f867a92cc3f
+      internalID: 678374151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201bc582c81a814d8e29befbf9b2909
+      internalID: 1090206576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a618e502b1ae2d488c580a097d6d15e
+      internalID: 1787111260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f839fe7bc3d04fab52985eb48092e
+      internalID: 1049187210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_8
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6470aa1b13f842ada2d1881847551
+      internalID: -745360571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_9
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34eb95707b3904d9671fdbb01421fa
+      internalID: 1972303074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_10
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ca163fca436c40801e5321dee1413
+      internalID: -1454792135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_11
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121ba21139baad4988ed3e788e57af5
+      internalID: 2118555807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_12
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4312e519bc7b71347882d112b3c68d3c
+      internalID: 294019183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_13
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2362.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2920d63cf8fb7499024c9538450864
+      internalID: 1282065221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a9a974aadda8f4aadb291c696f848f
+      internalID: 454589152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b34edc6142a74e8625a1be4ff0a97
+      internalID: -941545015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1285fb134113144ae64accd626bc69
+      internalID: -127496845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbfa08629ec3f34c9e67c9784cf0d9e
+      internalID: 1145131614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_18
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0223f29e7e5452e4785e7aa54aa5eec0
+      internalID: -529451960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_19
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6009fbd786f649934c75e27e8d214
+      internalID: 1409540551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_20
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c96800f0b00ee439b31bf734610157
+      internalID: 1368075265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_21
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c054c6e40bc04689a2707fff5ff1b
+      internalID: -1965270943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_22
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ef05a060ba22499b94385fc30347b
+      internalID: -163291912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_23
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a69e76044447a41ba532450d50d9fe
+      internalID: -1554682752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_24
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2126.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b656635460ba794691efc7512e78b0f
+      internalID: 283734783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c26eee3de38b4399bfd4bfbdce995
+      internalID: -1370124519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269599fbbe161c4f94dba578d83a141
+      internalID: -538291859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52d60735ca7c743a224419b7d6175a
+      internalID: -1946793782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e11d4705c6aa4fba02b0fd42a1e70
+      internalID: -1266956367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_29
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c5ed495f5420f48b0526ba508e1ae6
+      internalID: 213187908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_30
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb19154f80f9545a8350763e797ec4
+      internalID: -662693972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_31
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef79ed279edf2498aaa094643014a5
+      internalID: -777832779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_32
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac7bb70bdb2874a84fa444ca67134f
+      internalID: -653436266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_33
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b7fe1ea9e6c44da8e1fc50675a68f
+      internalID: 1992992669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_34
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1f13c61055bc4ab49838f310db8e8
+      internalID: -869582155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_35
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1890.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8b0f9be430fbc42b5ec9070bc6cfc1
+      internalID: -913982179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbabad842600b444b831edb6c212711c
+      internalID: 1392832306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_37
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42ac391e4c84a4b9e384d3f57c0f5b
+      internalID: 850476350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03619ba5036d82f4b8d265ff3900be8e
+      internalID: 2030964316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_39
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f0e2c7c2569f4f9b75f5f585ef2ae
+      internalID: -515693241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_40
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82354ae386004d444b0832c27cea56b6
+      internalID: 390000003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_41
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777de55dc0c1d7742ba9315062605ed3
+      internalID: 1726409075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_42
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64741f023f548ad4686064350be7a677
+      internalID: 62157539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_43
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc85bd750db774880ac651284b859b
+      internalID: -246950875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_44
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a920229fe51c6448ae125bd884b49f
+      internalID: 996109766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_45
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caaf562f6f7af04dbeefcb024fe0b0e
+      internalID: 1927697095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_46
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1654.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5596d0eef5e2bb94ab1e4b02a1879ab9
+      internalID: -965533690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdecef013de1454ead51a350ef701dc
+      internalID: -363734338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c5d99a33f8704ab4b5ccff2163cd6
+      internalID: -1363284792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7146b84da14f944990f5419f51e59c8
+      internalID: -1862688291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_50
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2bb0c6e7744294980578dddab257b7
+      internalID: -869256595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_51
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f1c229cff2e864bb13bccba9fe3ac8
+      internalID: -899487295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_52
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149bdb8587649c24f9b53962de4e85fe
+      internalID: 685155259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_53
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49f7c7862270b429044cd7fadeabeb
+      internalID: -1379083370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_54
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c693a5266cff6cf41b5f8f7501302844
+      internalID: 586435447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_55
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c3c682ebd31341a389378fa517ea8
+      internalID: -2134742439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_56
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1418.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ceb986a8ba83429e3f6a64951e051
+      internalID: 1419738465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83902ae8dcab7148a4020a9eb4b5b6e
+      internalID: 154547474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43651ea2aa8a9d1498a2efc730ced198
+      internalID: 1667398320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0902843e97cb2e49ae0265f37c8d36c
+      internalID: 1007580823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_60
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae18c734b9e5ce498a412b1b3960f31
+      internalID: -1248153987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_61
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf173d08d26d6b24a85cf01d79e3a07b
+      internalID: -2102290132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_62
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f6bd80f28570409e1068600854650
+      internalID: 1180745666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_63
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21740f812fda244fbfcf93cbf179e39
+      internalID: -2128828326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_64
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8fbb16c16a52745acdf5f3d0990178
+      internalID: 1447516563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_65
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b433700632a64985b2946221555a9
+      internalID: -373610342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_66
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1182.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a71f5414685041a4a94ebf1417081
+      internalID: -1061125327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b4c06d4e803143bb0af5b1c7572f8
+      internalID: -337103005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26370c07904d12843920d759053c66da
+      internalID: -1079872988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_69
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83ad59412459d4fb143a03876c178a
+      internalID: 940370927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_70
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011309a3debd43c4daf39e2746d7b899
+      internalID: 2101985984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_71
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96535064d8482564cbf2e75578687d57
+      internalID: 342252915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_72
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049256c75d8ef154782e71cdb977926b
+      internalID: -288698875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_73
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45da72989bb154e9332edf2604d949
+      internalID: -471216386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_74
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f259eb3f2895154db0bb4a81d3e10f3
+      internalID: -1707258947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_75
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4c200a0a6340459f210e69721f56d
+      internalID: 1550880016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_76
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a648bd7f379df2448981ac2074c52f7c
+      internalID: 1509013702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_77
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 946.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233f63bd6471f546b9204f01e19d055
+      internalID: 42957400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b996b520532496340a70475a8aab77d2
+      internalID: 420642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_79
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c4653ec923b94795208813dea3e82
+      internalID: 1668556997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_80
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bfc8bffa997c34caf2e61c594cfe60
+      internalID: 325196682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_81
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9635187bed7e20429d1e128308d0689
+      internalID: 1639782876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_82
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a43ac8ad6c55549b406d9d643611ba
+      internalID: 2037794280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_83
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b01910aa93104ea9473b8086eddc2
+      internalID: 1603814089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_84
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08610879aeabc74cb475a581b7184cb
+      internalID: -2102965733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_85
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ea22a3ec3f5c4880c1cb34073aff8
+      internalID: 1564493845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_86
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdd9ba0428783144a64be4217ffd7fc
+      internalID: -284614810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_87
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90741cf234ec6bf4799459b976327000
+      internalID: -810602382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Tree_88
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 710.75
+        width: 236.25
+        height: 236.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd9016b709535345ba773875f1f7698
+      internalID: -1725228214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BG_Tree_19: 1409540551
+      BG_Tree_78: 420642418
+      BG_Tree_20: 1368075265
+      BG_Tree_67: -337103005
+      BG_Tree_69: 940370927
+      BG_Tree_80: 325196682
+      BG_Tree_82: 2037794280
+      BG_Tree_49: -1862688291
+      BG_Tree_11: 2118555807
+      BG_Tree_17: 1145131614
+      BG_Tree_68: -1079872988
+      BG_Tree_1: 2095521016
+      BG_Tree_36: 1392832306
+      BG_Tree_73: -471216386
+      BG_Tree_23: -1554682752
+      BG_Tree_27: -1946793782
+      BG_Tree_21: -1965270943
+      BG_Tree_65: -373610342
+      BG_Tree_63: -2128828326
+      BG_Tree_87: -810602382
+      BG_Tree_54: 586435447
+      BG_Tree_24: 283734783
+      BG_Tree_60: -1248153987
+      BG_Tree_8: -745360571
+      BG_Tree_0: 775073921
+      BG_Tree_46: -965533690
+      BG_Tree_10: -1454792135
+      BG_Tree_7: 1049187210
+      BG_Tree_43: -246950875
+      BG_Tree_39: -515693241
+      BG_Tree_61: -2102290132
+      BG_Tree_52: 685155259
+      BG_Tree_4: 678374151
+      BG_Tree_83: 1603814089
+      BG_Tree_55: -2134742439
+      BG_Tree_88: -1725228214
+      BG_Tree_53: -1379083370
+      BG_Tree_56: 1419738465
+      BG_Tree_64: 1447516563
+      BG_Tree_51: -899487295
+      BG_Tree_75: 1550880016
+      BG_Tree_66: -1061125327
+      BG_Tree_5: 1090206576
+      BG_Tree_14: 454589152
+      BG_Tree_76: 1509013702
+      BG_Tree_38: 2030964316
+      BG_Tree_34: -869582155
+      BG_Tree_77: 42957400
+      BG_Tree_81: 1639782876
+      BG_Tree_16: -127496845
+      BG_Tree_29: 213187908
+      BG_Tree_59: 1007580823
+      BG_Tree_86: -284614810
+      BG_Tree_85: 1564493845
+      BG_Tree_31: -777832779
+      BG_Tree_62: 1180745666
+      BG_Tree_25: -1370124519
+      BG_Tree_3: -280997547
+      BG_Tree_47: -363734338
+      BG_Tree_9: 1972303074
+      BG_Tree_37: 850476350
+      BG_Tree_72: -288698875
+      BG_Tree_28: -1266956367
+      BG_Tree_58: 1667398320
+      BG_Tree_42: 62157539
+      BG_Tree_15: -941545015
+      BG_Tree_74: -1707258947
+      BG_Tree_41: 1726409075
+      BG_Tree_35: -913982179
+      BG_Tree_26: -538291859
+      BG_Tree_32: -653436266
+      BG_Tree_79: 1668556997
+      BG_Tree_48: -1363284792
+      BG_Tree_22: -163291912
+      BG_Tree_12: 294019183
+      BG_Tree_40: 390000003
+      BG_Tree_50: -869256595
+      BG_Tree_33: 1992992669
+      BG_Tree_71: 342252915
+      BG_Tree_13: 1282065221
+      BG_Tree_2: -2041228659
+      BG_Tree_45: 1927697095
+      BG_Tree_57: 154547474
+      BG_Tree_70: 2101985984
+      BG_Tree_18: -529451960
+      BG_Tree_30: -662693972
+      BG_Tree_84: -2102965733
+      BG_Tree_44: 996109766
+      BG_Tree_6: 1787111260
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
