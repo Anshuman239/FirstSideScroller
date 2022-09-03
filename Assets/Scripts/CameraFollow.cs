@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+    [Header("Camera Settings")]
     [SerializeField]
     private PlayerController m_player;
     [SerializeField]
@@ -44,6 +45,7 @@ public class CameraFollow : MonoBehaviour
         playerPosPre = m_player.transform.position;
     }
 
+    //unity function to draw simple shapes in editor for design/visual refrence.
     private void OnDrawGizmos()
     {
         Gizmos.color = new Color(1, 0, 0, 0.2f);
