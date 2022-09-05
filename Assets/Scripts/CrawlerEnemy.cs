@@ -47,12 +47,13 @@ public class CrawlerEnemy : Enemy
         if (collisionData.vertical == collisionSide.Up)
         {
             anim.SetBool("dead", true);
+            GetComponent<Collider2D>().enabled = false;
             Speed = 0f;
         }
         else if(collisionData.vertical != collisionSide.Up)
         {
             if (collision.GetComponent<PlayerController>() != null)
-                GameManager.instance.m_playerHealth -= 1;
+                GameManager.instance.playerHealth -= 1;
         }
     }
 

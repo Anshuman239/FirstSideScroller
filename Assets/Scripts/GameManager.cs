@@ -18,9 +18,9 @@ public class GameManager : MonoBehaviour
     public float speed;
     public float jumpHeight;
     [SerializeField]
-    private int playerHealth;
+    private int m_playerHealth;
     [SerializeField]
-    private PlayerController m_Player;
+    private PlayerController Player;
 
     [Header("UI Settings")]
     public TextMeshProUGUI coinCountDisplay;
@@ -32,47 +32,47 @@ public class GameManager : MonoBehaviour
     private Sprite FullHeart, HalfHeart, EmptyHeart;
     private Image[] heartSprites;
 
-    public int m_playerHealth
+    public int playerHealth
     {
         get
         {
-            return playerHealth;
+            return m_playerHealth;
         }
         set
         {
-            playerHealth = value;
+            m_playerHealth = value;
 
-            if (playerHealth == 5)
+            if (m_playerHealth == 5)
             {
                 heartSprites[0].sprite = FullHeart;
                 heartSprites[1].sprite = FullHeart;
                 heartSprites[2].sprite = HalfHeart;
             }
-            else if (playerHealth == 4)
+            else if (m_playerHealth == 4)
             {
                 heartSprites[0].sprite = FullHeart;
                 heartSprites[1].sprite = FullHeart;
                 heartSprites[2].sprite = EmptyHeart;
             }
-            else if (playerHealth == 3)
+            else if (m_playerHealth == 3)
             {
                 heartSprites[0].sprite = FullHeart;
                 heartSprites[1].sprite = HalfHeart;
                 heartSprites[2].sprite = EmptyHeart;
             }
-            else if (playerHealth == 2)
+            else if (m_playerHealth == 2)
             {
                 heartSprites[0].sprite = FullHeart;
                 heartSprites[1].sprite = EmptyHeart;
                 heartSprites[2].sprite = EmptyHeart;
             }
-            else if (playerHealth == 1)
+            else if (m_playerHealth == 1)
             {
                 heartSprites[0].sprite = HalfHeart;
                 heartSprites[1].sprite = EmptyHeart;
                 heartSprites[2].sprite = EmptyHeart;
             }
-            else if (playerHealth <= 0)
+            else if (m_playerHealth <= 0)
             {
                 heartSprites[0].sprite = EmptyHeart;
                 heartSprites[1].sprite = EmptyHeart;
@@ -119,12 +119,18 @@ public class GameManager : MonoBehaviour
     private void MoveBG()
     {
         backGround.GetComponent<Renderer>().sharedMaterial.SetVector("_Offset",
-            new Vector2(backGround.GetComponent<Renderer>().sharedMaterial.GetVector("_Offset").x + (speed * Time.deltaTime * inputDir * 0.02f * m_Player.rawVelocityX), 0));
+            new Vector2(backGround.GetComponent<Renderer>().sharedMaterial.GetVector("_Offset").x + (speed * Time.deltaTime * inputDir * 0.02f * Player.rawVelocityX), 0));
     }
 
     private void updateUI()
     {
         coinCountDisplay.text = coinCount.ToString();
-        HealthBar.SetInteger("health", m_playerHealth);
+        HealthBar.SetInteger("health", playerHealth);
+    }
+
+    public IEnumerator GameOverMenu(float dieAnimationLength)
+    {
+        yield return new WaitForSeconds(dieAnimationLength);
+        Debug.Log("GAME OVER");
     }
 }

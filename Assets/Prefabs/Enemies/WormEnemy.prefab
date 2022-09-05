@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 1
-  Speed: 0
+  Speed: 3
   hitRayLength: 0.05
   rayCollisionLayers:
     serializedVersion: 2

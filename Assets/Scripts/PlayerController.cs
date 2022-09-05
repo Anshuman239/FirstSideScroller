@@ -11,13 +11,15 @@ public class PlayerController : MonoBehaviour
     public LayerMask rayCastLayers;
     [HideInInspector]
     public int rawVelocityX = 0;
+    public GameObject playerSprite;
 
     //Declaring private variables at same place for clean and easy to read code.
     private float speed;
     private float jumpHeight;
     private Rigidbody2D rb;
     private SpriteRenderer spr;
-    private Animator anim;
+    [HideInInspector]
+    public Animator anim;
     private float horizontalDirection;
     private float boundingBoxSizeX;
 
@@ -25,8 +27,8 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        spr = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>();
+        spr = playerSprite.GetComponent<SpriteRenderer>();
+        anim = playerSprite.GetComponent<Animator>();
         boundingBoxSizeX = GetComponent<CapsuleCollider2D>().size.x;
     }
 
@@ -100,7 +102,11 @@ public class PlayerController : MonoBehaviour
         anim.SetFloat("speedX", Math.Abs(rb.velocity.x));
         anim.SetBool("grounded", hit);
 
-        if (GameManager.instance.m_playerHealth < 1)
+        if (GameManager.instance.playerHealth < 1)
+        {
+            if(!anim.GetBool("dead"))
+                StartCoroutine(GameManager.instance.GameOverMenu(1));
             anim.SetBool("dead", true);
+        }
     }
 }

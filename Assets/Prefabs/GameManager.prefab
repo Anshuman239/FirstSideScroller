@@ -44,11 +44,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d0c783d84eed8d498a3d6e7eb4ca344, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inputDir: 0
+  coinCount: 0
   speed: 5
   jumpHeight: 670
-  m_Player: {fileID: 0}
-  moveDir: 0
-  playerHealth: 0
-  coinCount: 0
+  m_playerHealth: 6
+  Player: {fileID: 0}
   coinCountDisplay: {fileID: 0}
   backGround: {fileID: 0}
+  HealthBar: {fileID: 0}
+  FullHeart: {fileID: 1249861851, guid: c88e856b773dca54081de4911c04c735, type: 3}
+  HalfHeart: {fileID: 1482276518, guid: c88e856b773dca54081de4911c04c735, type: 3}
+  EmptyHeart: {fileID: -963968039, guid: c88e856b773dca54081de4911c04c735, type: 3}
